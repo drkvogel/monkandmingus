@@ -1,0 +1,30 @@
+
+1   Roland Kirk - 3 for the festival
+2   Miles Davis - OLEO (live)
+3   Buddy Rich - (unknown) (drum solo)
+4   Ginger Baker Trio - Straight No Chaser
+5   Roland Kirk - Meeting on Termini's Corner
+6   Buddy Rich - Slo-Funk
+7   Roland Kirk - Black Diamond
+8   Roland Kirk - You Did It You Did It
+9   Miles Davis - Round About Midnight
+9b  Miles Davis - Round About Midnight
+10  Roland Kirk - Haunted Melody
+11  Buddy Rich - The Beat Goes On
+
+
+
+Roland Kirk Miles Davis Ginger Baker Trio Buddy Rich
+
+https://londonjazzcollector.wordpress.com/record-labels-guide/labelography-2/blue-note-catalogue-number/
+https://fontsinuse.com/uses/8614/the-blues-release-sheet
+
+fonts:
+Trade Gothic
+Vogue
+Tempo - 
+all cost $$$ from e.g. myfonts.com
+closest in Gimp is Sans or Liberation Sans or Franklin Gothic
+but omg you can find on slsk: e.g. "vogue ttf"
+
+pinky-red colour: #ff1512
