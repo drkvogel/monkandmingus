@@ -12,19 +12,3 @@
 10  Roland Kirk - Haunted Melody
 11  Buddy Rich - The Beat Goes On
 
-
-
-Roland Kirk Miles Davis Ginger Baker Trio Buddy Rich
-
-https://londonjazzcollector.wordpress.com/record-labels-guide/labelography-2/blue-note-catalogue-number/
-https://fontsinuse.com/uses/8614/the-blues-release-sheet
-
-fonts:
-Trade Gothic
-Vogue
-Tempo - 
-all cost $$$ from e.g. myfonts.com
-closest in Gimp is Sans or Liberation Sans or Franklin Gothic
-but omg you can find on slsk: e.g. "vogue ttf"
-
-pinky-red colour: #ff1512
